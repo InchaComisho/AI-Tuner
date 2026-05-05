@@ -197,3 +197,6 @@ https://github.com/InchaComisho/AI-Tuner-Definition-and-Conceptual-Framework/tre
 
 AI Tuner
 https://github.com/InchaComisho/AI-Tuner/tree/main
+
+Master AI Tuner
+https://github.com/InchaComisho/Master-AI-Tuner/tree/main
