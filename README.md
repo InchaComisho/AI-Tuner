@@ -2,7 +2,7 @@
 Definition, Role, and Practical Framework for Transforming AI Behavior
 
 Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude)  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
 Abstract
