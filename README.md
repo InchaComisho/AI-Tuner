@@ -455,31 +455,10 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 
 ## License
 
-**Fully Open**
+CC BY 4.0
 
 This material is an open resource for AI co-creation, Artificial Wisdom, Natural Complementation Science, and Civilization OS. It may be freely used, translated, modified, redistributed, and commercialized.
 
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
-
----
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and advocate of the academic framework of Natural Complementary Science.  
-Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
-
----
-
-## License
-
-CC BY 4.0
-
-This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 ---
 
 ## Keywords
