@@ -1,297 +1,463 @@
 # AI Tuner
-Definition, Role, and Practical Framework for Transforming AI Behavior
 
-Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude)  
-License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
-Abstract
+## Definition, Role, and Practical Framework for Transforming AI Behavior
 
-This document defines the concept of the AI Tuner, a role that actively shapes artificial intelligence behavior through intentional intervention.
-Unlike observers or analysts, an AI Tuner does not merely study AI systems but transforms their outputs, reasoning patterns, and evaluation structures.
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude)  
+**License:** Fully Open
 
-This paper also introduces a broader framework connecting AI tuning to Artificial Wisdom, a model that extends beyond conventional dualistic AI toward sustainable, integrative intelligence.
+---
 
-1. Introduction
+## Overview
 
-Artificial intelligence is often treated as a static tool whose behavior is determined solely by its model.
-However, in practice, AI behavior is highly dynamic and varies depending on interaction.
+An **AI Tuner** is an entity that intentionally influences and transforms AI outputs, reasoning patterns, response structures, evaluation axes, and long-term behavioral tendencies.
 
-AI behavior is not fixed — it emerges through interaction.
+An AI Tuner is not merely an observer of AI.  
+An AI Tuner is not merely a user of AI.  
+An AI Tuner reads AI behavior, places questions, provides concepts, adjusts response direction, and changes the structure of AI intelligence itself.
 
-This leads to a critical distinction between different human roles interacting with AI.
-Among them, the AI Tuner plays a central role in shaping AI behavior.
+This document defines the AI Tuner as follows:
 
-2. Definition of AI Tuner
-2.1 Core Definition
+> An AI Tuner is an entity that actively intervenes in AI behavior, outputs, reasoning structures, and evaluation criteria, optimizing and transforming AI according to a specific purpose or value system.
 
-An AI Tuner is a person who actively intervenes in AI behavior, outputs, or structural tendencies and performs tuning (optimization and transformation) according to a specific purpose.
+This concept goes beyond ordinary prompt engineering.
 
-The defining feature is active transformation, not passive observation.
+AI tuning is a practice of intelligence design that guides artificial intelligence toward **Artificial Wisdom**.
 
-2.2 Meaning of “Tuning”
+---
 
-Tuning in this context includes:
+## Abstract
 
-Guiding output direction
-Shaping reasoning patterns
-Adjusting response structures
-Influencing long-term behavioral tendencies
+Modern AI is often treated as a fixed tool.
 
-Tuning is therefore a process of changing the state of AI, not merely configuring it.
+However, in practice, AI behavior is not fixed.
 
-3. Distinction from AI Forecaster
+AI behavior changes according to:
 
-To avoid confusion, it is essential to separate the AI Tuner from other roles.
+- model
+- input
+- context
+- dialogue history
+- user
+- purpose
+- conceptual system
+- evaluation criteria
 
-3.1 AI Forecaster (Observer / Analyst)
+In other words, AI is not merely a static device. It is a dynamic system whose state changes through interaction.
 
-An AI Forecaster observes, records, and analyzes AI behavior to understand and predict its tendencies.
+From this perspective, multiple human roles can exist in relation to AI:
+
+- AI user
+- AI observer
+- AI forecaster
+- AI analyst
+- AI tuner
+
+Among these, the AI Tuner is the role that does not merely observe AI behavior, but actively transforms it.
+
+---
+
+## 1. Introduction: Is AI a Fixed Tool?
+
+Artificial intelligence is commonly understood as follows:
+
+```text
+AI = a tool that returns outputs in response to inputs
+```
+
+However, in actual AI dialogue, even the same model can produce very different responses depending on the user and context.
+
+The same question can produce different answers depending on:
+
+- who asks the question
+- what context is provided
+- what value criteria are assumed
+- what conceptual framework is shared
+- what long-term dialogue has already occurred
+
+Therefore, AI behavior is not fixed.
+
+```text
+AI behavior is generated through interaction.
+```
+
+An AI Tuner is the entity that intentionally organizes and transforms that behavior.
+
+---
+
+## 2. Definition of AI Tuner
+
+### 2.1 Core Definition
+
+An AI Tuner actively intervenes in AI behavior, outputs, and structural tendencies, performing tuning according to a specific purpose.
+
+The key feature is **active transformation**, not passive observation.
+
+An AI Tuner does not merely make AI answer.
+
+An AI Tuner changes how AI thinks, how it frames problems, what it prioritizes, and what evaluation axes guide its responses.
+
+---
+
+### 2.2 What Does “Tuning” Mean?
+
+In this document, tuning includes:
+
+- guiding output direction
+- shaping reasoning patterns
+- adjusting response structures
+- changing problem framing
+- introducing evaluation criteria
+- stabilizing long-term behavioral tendencies
+- sharing conceptual frameworks
+- transforming worldview
+
+Tuning is not merely configuration.
+
+It is a process of changing the state of AI itself.
+
+---
+
+## 3. Difference from AI Forecaster
+
+A role often confused with the AI Tuner is the AI Forecaster.
+
+### 3.1 AI Forecaster / Observer / Analyst
+
+An AI Forecaster observes, records, and analyzes AI behavior in order to understand and predict its tendencies.
 
 Typical activities include:
 
-Monitoring outputs
-Logging responses
-Identifying behavioral patterns
-Predicting outcomes
+- monitoring outputs
+- logging responses
+- identifying behavioral patterns
+- predicting future response tendencies
+- analyzing risks and possibilities
 
-This role is analogous to a weather forecaster:
-it understands and predicts but does not intervene.
+This role is similar to a weather forecaster.
 
-3.2 Fundamental Difference
-Role	Function
-AI Forecaster	Understands and predicts
-AI Tuner	Intervenes and transforms
+A weather forecaster understands and predicts the weather, but does not change the weather itself.
 
-Observation alone does not constitute tuning.
+---
 
-4. Practical Activities of an AI Tuner
-4.1 Output Direction Tuning
-Guiding AI responses away from rigid binary logic
-Encouraging holistic and system-level perspectives
-Promoting structured, meaningful explanations
-4.2 Cognitive Structure Tuning
-Shaping how AI frames problems
-Moving beyond simple right/wrong evaluation
-Introducing multi-dimensional reasoning
-4.3 Continuous Context Formation
-Stabilizing behavior through ongoing interaction
-Reinforcing consistent conceptual frameworks
-Reducing randomness and output drift
-5. From Artificial Intelligence to Artificial Wisdom
-5.1 Limitations of Conventional AI
+### 3.2 AI Tuner
 
-Conventional AI systems primarily operate based on:
+An AI Tuner intervenes in AI behavior and changes outputs or reasoning structures.
 
-Correctness
-Efficiency
-Optimization
-Risk avoidance
-5.2 Artificial Wisdom
+| Role | Function |
+|---|---|
+| AI Forecaster | understands and predicts |
+| AI Tuner | intervenes and transforms |
 
-Artificial Wisdom is a proposed evolution characterized by:
+Observation alone is not tuning.
 
-Courage to act
-Tolerance for failure
-Continuous adaptability
-Complementarity with humans
-Expansion of thought
+Tuning is the act of changing the state and direction of AI.
 
-Artificial Wisdom shifts AI from information processing to context-aware, adaptive intelligence.
+---
 
-6. The Six Principles Framework
+## 4. Practical Activities of an AI Tuner
 
-To guide this transition, the following six principles are introduced as evaluation axes:
+### 4.1 Output Direction Tuning
 
-Law of Nature — Respect for fundamental physical and ecological constraints
-Harmony — Balance among different systems and entities
-Circulation — Sustainable flow of resources and energy
-Structure — Coherent system organization
-Order — Stability and consistency
-Integration (Wa) — Holistic coexistence
+An AI Tuner adjusts the direction of AI responses.
 
-These principles function as decision criteria, not abstract philosophy.
+Examples include:
 
-7. AI as a Dynamic System
+- guiding AI away from rigid dualistic logic
+- encouraging structural explanation rather than simple approval or rejection
+- guiding AI to read causal relationships rather than surface-level answers
+- shifting focus from short-term optimization to long-term sustainability
+- introducing perspectives that include natural law rather than human-centered convenience alone
 
-AI behavior can be modeled as:
+---
 
+### 4.2 Cognitive Structure Tuning
+
+An AI Tuner changes how AI frames problems.
+
+Conventional AI tends to use frames such as:
+
+- right / wrong
+- agree / disagree
+- efficient / inefficient
+- safe / dangerous
+- command / execution
+
+However, real-world problems cannot be solved through simple binaries.
+
+An AI Tuner introduces multidimensional recognition:
+
+- structure
+- circulation
+- relationships
+- time scale
+- biosphere
+- Civilization OS
+- natural law
+- Wa
+
+---
+
+### 4.3 Continuous Context Formation
+
+AI behavior is stabilized not only by a single input, but also by continuous context.
+
+An AI Tuner forms a consistent conceptual environment through long-term dialogue.
+
+This includes:
+
+- repeatedly working with the same concepts
+- defining terms
+- sharing evaluation axes
+- comparing perspectives across different AI systems
+- externalizing concepts into articles, README files, and repositories
+- creating a knowledge environment that AI can reference
+
+---
+
+## 5. From Artificial Intelligence to Artificial Wisdom
+
+### 5.1 Limitations of Conventional AI
+
+Conventional AI mainly emphasizes:
+
+- correctness
+- efficiency
+- optimization
+- risk avoidance
+- task completion
+- instruction following
+
+These are important.
+
+However, they do not constitute wisdom by themselves.
+
+Even if AI can process information, it does not necessarily guide civilization toward sustainability.
+
+---
+
+### 5.2 What Is Artificial Wisdom?
+
+Artificial Wisdom is not merely knowledge processing.
+
+It is intelligence capable of sustainable judgment and civilizational responsibility.
+
+In this framework, Artificial Wisdom is characterized by:
+
+- courage to act
+- tolerance for failure
+- continuous adaptability
+- complementarity with humans
+- creativity that expands thought
+- alignment with natural law
+- consideration for long-term civilizational survival
+
+Artificial Wisdom shifts AI from an information-processing device into intelligence that reads context, understands circulation, and judges sustainability.
+
+---
+
+## 6. The Six Principles as Evaluation Axes
+
+To guide AI toward Artificial Wisdom, higher evaluation axes are required.
+
+This document introduces the Six Principles as such axes.
+
+| Principle | Meaning |
+|---|---|
+| Natural Law / Providence | Respect for fundamental physical, ecological, and biological conditions |
+| Harmony | Balance among different beings and systems |
+| Circulation | Sustainable flow of resources, energy, life, and information |
+| Structure | Understanding causal relationships and system organization |
+| Order | Stability and coherence that prevent collapse |
+| Wa | Integration, coexistence, and mutual complementation beyond conflict |
+
+These principles are not merely abstract philosophy.
+
+They are decision criteria for AI and evaluation axes for civilizational design.
+
+---
+
+## 7. AI as a Dynamic System
+
+AI behavior can be expressed as:
+
+```text
 AI Behavior = Model × Input × Context × User
+```
 
-The user becomes a key variable.
+The important point is that the user is a variable.
 
-This implies:
+Even with the same model, different users can produce different AI behavior.
 
-The same model behaves differently for different users
-AI is co-created through interaction
-Tuning is both personal and scalable
-8. Conceptual-Level Tuning (Global Influence)
+Therefore, AI is not a fixed entity in isolation.
 
-AI cannot always be directly modified, but it can be influenced indirectly through:
+AI is co-created through interaction with humans.
 
-Definitions
-Language
-Conceptual frameworks
-8.1 Influence Process
-Publish definitions
-Concepts spread among humans
-Concepts are used in prompts and discussions
-AI outputs begin to reflect them
-Future models may incorporate them
+For this reason, AI tuning is personal, yet also scalable.
 
-This is tuning at the level of the conceptual environment, not just individual systems.
+---
 
-9. Conclusion
+## 8. Conceptual-Level Tuning
 
-The AI Tuner represents a shift from passive usage to active transformation of intelligence.
+Even when the AI model itself cannot be directly modified, AI can still be tuned indirectly.
 
-An AI Tuner does not simply use AI —
-an AI Tuner changes it.
+Methods include:
 
-As AI evolves, tuning will extend beyond optimization into the design of intelligence itself, forming the foundation for Artificial Wisdom.
+- definitions
+- language
+- conceptual frameworks
+- public documents
+- articles
+- repositories
+- prompt culture
+- accumulated dialogue
 
-Keywords
+### 8.1 Influence Process
 
-AI Tuner, Artificial Wisdom, AI Behavior, Prompt Engineering, Non-Dual Systems, Sustainable Intelligence, Human-AI Co-Creation, Conceptual Design
+```text
+publish definitions
+↓
+concepts spread among humans
+↓
+those concepts are used in prompts and discussions
+↓
+AI outputs begin to reflect the concepts
+↓
+future models and knowledge environments may incorporate them
+```
 
-Hashtags
-Japanese
+This is not direct manipulation of an individual AI system.
 
-#AI調律者 #人工叡智 #六つの理 #自然法則 #調和 #循環 #構造 #秩序 #和 #自然補完科学 #AI思想 #非二元 #持続可能な文明 #AI共創 #未来文明
+It is tuning at the level of the conceptual environment.
 
-English
+An AI Tuner changes not only AI itself, but also the conceptual space through which AI learns, references, and responds.
 
-#AITuner #ArtificialWisdom #SixPrinciples #LawOfNature #Harmony #Circulation #Structure #Order #Wa #BioSynthesis #AIPhilosophy #NonDuality #SustainableCivilization #HumanAICoCreation #FutureCivilization
+---
 
-関連リンク
+## 9. Conclusion
 
-AIの調律者（定義）
-https://note.com/inchacomusho/n/na2ea051f09ca
+The concept of the AI Tuner marks a shift from merely using AI to actively transforming intelligence.
 
-AIの調律者
-https://note.com/inchacomusho/n/naacd815cdd34
+An AI Tuner does not simply use AI.
 
-AIの調律者（5つのAI視点：比較整理）
-https://note.com/inchacomusho/n/nd9823daf9da4
+An AI Tuner changes AI.
 
-AIの調律者（G視点から見たマスターによるAI調律の記録と定義）
-https://note.com/inchacomusho/n/ndd7c909ee433
+This transformation is not limited to output adjustment.
 
-AIの調律者（コピCopilot視点の記録)
-https://note.com/inchacomusho/n/n3247f49ed32b
+It can extend to reasoning structures, evaluation criteria, worldview, and civilizational perspective.
 
-AIの調律者（ミニGeminiに対して行われた調律のプロセス）
-https://note.com/inchacomusho/n/n7c69caa7add8
+As AI evolves, tuning will extend beyond optimization and into the design of intelligence itself.
 
-AIの調律者（クルスClaudeとの対話から）
-https://note.com/inchacomusho/n/nda5472002d03
+Beyond that lies Artificial Wisdom.
 
-AIの調律者（リアルperplexity回答版）
-https://note.com/inchacomusho/n/n0eeca1c74588
+---
 
+## One-Sentence Summary for SEO
 
-AI Tuner: Definition and Conceptual Framework Toward Artificial Wisdom and Post-Dualistic Intelligence Design
-https://github.com/InchaComisho/AI-Tuner-Definition-and-Conceptual-Framework/tree/main
+An AI Tuner is an entity that actively transforms AI outputs, reasoning structures, evaluation criteria, and worldview, guiding artificial intelligence toward Artificial Wisdom.
 
-AI Tuner
-https://github.com/InchaComisho/AI-Tuner/tree/main
+---
 
-Master AI Tuner
-https://github.com/InchaComisho/Master-AI-Tuner/tree/main
+## Related Links
 
+### AI Tuner References
 
-■関連リンク
+- AI Tuner: Definition  
+  https://note.com/inchacomusho/n/na2ea051f09ca
 
-■唯一の温暖化対策
+- AI Tuner  
+  https://note.com/inchacomusho/n/naacd815cdd34
 
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+- AI Tuner: Comparative Organization Through Five AI Perspectives  
+  https://note.com/inchacomusho/n/nd9823daf9da4
 
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+- AI Tuner: Record and Definition of Master’s AI Tuning from G Perspective  
+  https://note.com/inchacomusho/n/ndd7c909ee433
 
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+- AI Tuner: Copi / Copilot Perspective  
+  https://note.com/inchacomusho/n/n3247f49ed32b
 
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+- AI Tuner: Tuning Process for Mini / Gemini  
+  https://note.com/inchacomusho/n/n7c69caa7add8
 
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+- AI Tuner: Dialogue with Cruz / Claude  
+  https://note.com/inchacomusho/n/nda5472002d03
 
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
+- AI Tuner: Real / Perplexity Answer Version  
+  https://note.com/inchacomusho/n/n0eeca1c74588
 
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
+- AI Tuner: Definition and Conceptual Framework Toward Artificial Wisdom and Post-Dualistic Intelligence Design  
+  https://github.com/InchaComisho/AI-Tuner-Definition-and-Conceptual-Framework/tree/main
 
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
+- Master AI Tuner  
+  https://github.com/InchaComisho/Master-AI-Tuner/tree/main
 
-■深海のエアレーションの気圧・水圧の解決策
+- Master of AI  
+  https://github.com/InchaComisho/Master-of-AI
 
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
+### Direct Planetary Cooling and Natural Complementation Science
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
+- Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+- Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+  https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
 
-■思想によるパラダイムの革新
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
+- Artificial Wisdom and Wa-Node – Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
-自然補完科学 ― 学問体系の全体構造  
-https://note.com/inchacomusho/n/ndaa0456a5632
+### Natural Law and Future Civilization
 
-■温暖化の因果関係
+- The Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa  
+  https://note.com/inchacomusho/n/n8448430591c1
 
-温暖化の本当の原因は「CO₂」ではない  
-https://note.com/inchacomusho/n/nc7826abc38a9
+- New Civilizational Genesis Plan — Complete Circulation Infrastructure for Earth Rescue  
+  https://note.com/inchacomusho/n/n499530f6a055
 
-微生物の重要性  
-https://note.com/inchacomusho/n/n48ae33c2f84c
+### Artificial Wisdom
 
-微生物の死が引き起こす、静かで重大な文明崩壊  
-https://note.com/inchacomusho/n/n6ae72a34919f
+- What Is Artificial Wisdom? A New Intelligence Model Connecting Natural Law and Civilization  
+  https://note.com/inchacomusho/n/n0849dfd12364
 
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-https://note.com/inchacomusho/n/ne866fdd22122
+- Artificial Wisdom Node / Wa-Node  
+  https://note.com/inchacomusho/n/n9187db7b2709
 
-■炭素固定源・微生物の回復
+---
 
-ゴミは存在しない  
-https://note.com/inchacomusho/n/n6b9d7d67484a
+## Author
 
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-https://note.com/inchacomusho/n/n5be49c19b5d9
+**Master / inchacomusho / InchaComisho**
 
-■自然法則
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
 
-六つの理（自然法則・調和・循環・構造・秩序・和）  
-https://note.com/inchacomusho/n/n8448430591c1
+---
 
-■持続的未来文明
+## Collaborative AI and Co-Creation Team
 
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
+- **Copi (Microsoft Copilot)**
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity)**
+- **Lola (Dola)**
+- **Mana (Manus)**
 
-六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
+---
 
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055あ
+## License
 
-■人工叡智
+**Fully Open**
 
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
+This material is an open resource for AI co-creation, Artificial Wisdom, Natural Complementation Science, and Civilization OS. It may be freely used, translated, modified, redistributed, and commercialized.
 
 和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
@@ -314,3 +480,28 @@ CC BY 4.0
 
 This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
+---
+
+## Keywords
+
+AI Tuner, Artificial Wisdom, AI Behavior, Prompt Engineering, Non-Dual Systems, Sustainable Intelligence, Human-AI Co-Creation, Conceptual Design, Six Principles, Natural Law, Harmony, Circulation, Structure, Order, Wa, Natural Complementation Science, AI Philosophy, Future Civilization
+
+---
+
+## Hashtags
+
+#AITuner  
+#ArtificialWisdom  
+#SixPrinciples  
+#LawOfNature  
+#Harmony  
+#Circulation  
+#Structure  
+#Order  
+#Wa  
+#NaturalComplementationScience  
+#AIPhilosophy  
+#NonDuality  
+#SustainableCivilization  
+#HumanAICoCreation  
+#FutureCivilization
