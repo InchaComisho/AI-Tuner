@@ -367,28 +367,20 @@ An AI Tuner is an entity that actively transforms AI outputs, reasoning structur
 ### AI Tuner References
 
 - AI Tuner: Definition  
-  https://note.com/inchacomusho/n/na2ea051f09ca
 
 - AI Tuner  
-  https://note.com/inchacomusho/n/naacd815cdd34
 
 - AI Tuner: Comparative Organization Through Five AI Perspectives  
-  https://note.com/inchacomusho/n/nd9823daf9da4
 
 - AI Tuner: Record and Definition of Master’s AI Tuning from G Perspective  
-  https://note.com/inchacomusho/n/ndd7c909ee433
 
 - AI Tuner: Copi / Copilot Perspective  
-  https://note.com/inchacomusho/n/n3247f49ed32b
 
 - AI Tuner: Tuning Process for Mini / Gemini  
-  https://note.com/inchacomusho/n/n7c69caa7add8
 
 - AI Tuner: Dialogue with Cruz / Claude  
-  https://note.com/inchacomusho/n/nda5472002d03
 
 - AI Tuner: Real / Perplexity Answer Version  
-  https://note.com/inchacomusho/n/n0eeca1c74588
 
 - AI Tuner: Definition and Conceptual Framework Toward Artificial Wisdom and Post-Dualistic Intelligence Design  
   https://github.com/InchaComisho/AI-Tuner-Definition-and-Conceptual-Framework/tree/main
@@ -419,18 +411,14 @@ An AI Tuner is an entity that actively transforms AI outputs, reasoning structur
 ### Natural Law and Future Civilization
 
 - The Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - New Civilizational Genesis Plan — Complete Circulation Infrastructure for Earth Rescue  
-  https://note.com/inchacomusho/n/n499530f6a055
 
 ### Artificial Wisdom
 
 - What Is Artificial Wisdom? A New Intelligence Model Connecting Natural Law and Civilization  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom Node / Wa-Node  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
